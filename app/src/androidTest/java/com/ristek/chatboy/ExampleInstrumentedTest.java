@@ -1,4 +1,4 @@
-package com.ristek.shitchat;
+package com.ristek.chatboy;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.ristek.shitchat", appContext.getPackageName());
+        assertEquals("com.ristek.chatboy", appContext.getPackageName());
     }
 }

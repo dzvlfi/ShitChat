@@ -1,4 +1,4 @@
-package com.ristek.shitchat;
+package com.ristek.chatboy;
 
 import org.junit.Test;
 

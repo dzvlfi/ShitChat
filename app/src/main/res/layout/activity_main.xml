@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.ristek.shitchat.MainActivity">
+    tools:context="com.ristek.chatboy.MainActivity">
 
     <FrameLayout
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
                 android:id="@+id/profile_image"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:src="@drawable/dzulfi"
+                android:src="@drawable/gitarkuy"
                 app:civ_border_width="2dp"
                 app:civ_border_color="#E4F1FE"/>
 
@@ -34,7 +34,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Dzulfiqar Ridha(1301154298)"
+                    android:text="UnHoly Boy"
                     android:textStyle="bold" />
 
                 <LinearLayout

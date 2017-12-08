@@ -1,4 +1,4 @@
-package com.ristek.shitchat;
+package com.ristek.chatboy;
 
 import android.Manifest;
 import android.content.Context;
@@ -32,7 +32,6 @@ import android.util.SparseIntArray;
 import android.view.Surface;
 import android.view.TextureView;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
@@ -204,7 +203,7 @@ public class MainActivity extends AppCompatActivity {
 
 
             String filename = pictureFileDir.getPath() + File.separator + photoFile;
-//Environment.getExternalStorageDirectory() + "/shitChat/juls_"+ date +".jpg"
+//Environment.getExternalStorageDirectory() + "/chatBoy/jul_"+ date +".jpg"
             final File file = new File(filename);
 
             ImageReader.OnImageAvailableListener readerListener = new ImageReader.OnImageAvailableListener() {
