@@ -89,7 +89,7 @@
             android:layout_alignParentBottom="true"
             android:layout_alignParentLeft="true"
             android:background="#FFFFFF"
-            android:text="Warnai Harimu :D" />
+            android:text="Warnai Harimu" />
 
     </LinearLayout>
 
